@@ -1,0 +1,30 @@
+.gifLogo{
+    padding-left: 50px;
+}
+
+body{
+    background-color: black;
+}
+
+#gif-form{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#gif-search{
+    width: 100%;
+}
+
+button{
+    margin-top: 10px;
+    width: 20%;
+    color: red;
+    background-color: white;
+    border: 2px red solid;
+    border-radius: 10px;
+}
+
+#results{
+    margin-top: 50px;
+    display:table;
+}
